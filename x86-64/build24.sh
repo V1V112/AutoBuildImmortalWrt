@@ -63,7 +63,7 @@ PACKAGES="$PACKAGES luci-i18n-nikki-zh-cn"
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # 解决ikuai+op mac地址重复的问题
-PACKAGES="$PACKAGES snmp"
+PACKAGES="$PACKAGES snmpd"
 # 网络测速
 PACKAGES="$PACKAGES luci-app-netspeedtest"
 PACKAGES="$PACKAGES luci-i18n-netspeedtest-zh-cn"
